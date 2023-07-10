@@ -4,7 +4,7 @@ A GUI based Calculator using Tkinter
 <H1>Programming Language</H1>
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-<h3> This project has beem developed using Tkinter </h3><br>
+<h3> This project has been developed using Tkinter </h3><br>
  <h4><b> Steps to install Tkinter in Debian :</b></h4>
  sudo apt-get install python3 tk
  
